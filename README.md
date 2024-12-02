@@ -13,7 +13,6 @@ A simple and responsive TodoList application built using modern JavaScript, Webp
 - Edit task details
 - Delete tasks
 - Mark tasks as completed
-- Fully responsive design
 
 ## 🛠️ Built With
 - HTML5
