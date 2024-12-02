@@ -2,7 +2,7 @@
 
 A simple and responsive TodoList application built using modern JavaScript, Webpack, and CSS. This project showcases task management features, including adding, editing, deleting, and marking tasks as completed.
 
-![TodoList Screenshot](path-to-your-screenshot.png)
+![TodoList Screenshot](./src/img/ODIN-Todolist.png)
 
 ### 🔗 Live Demo
 [Click here to view the live project](https://xxemat20xx.github.io/Todolist/)
