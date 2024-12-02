@@ -1,6 +1,6 @@
 # 📋 ODIN TodoList Project
 
-A simple and responsive TodoList application built using modern JavaScript, Webpack, and CSS. This project showcases task management features, including adding, editing, deleting, and marking tasks as completed.
+A simple TodoList application built using modern JavaScript, Webpack, and CSS. This project showcases task management features, including adding, editing, deleting, and marking tasks as completed.
 
 ![TodoList Screenshot](./src/img/ODIN-Todolist.png)
 
