@@ -5,8 +5,7 @@ A simple and responsive TodoList application built using modern JavaScript, Webp
 ![TodoList Screenshot](path-to-your-screenshot.png)
 
 ### 🔗 Live Demo
-[Click here to view the live project]((https://xxemat20xx.github.io/Todolist/))
-
+[Click here to view the live project](https://your-live-site-url.com)](https://xxemat20xx.github.io/Todolist/)
 ---
 
 ## 🚀 Features
